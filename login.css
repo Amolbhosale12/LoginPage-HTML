@@ -41,3 +41,17 @@ input{
 .forc{
     color:rgb(73, 78, 85);
 }
+.reset button{
+    color:gray;
+    border-radius:5px solid orange;
+    background-color:black;
+}
+@media only screen and (min-width:300px) and (max-width:800px){
+    #cen{
+        width:30%;
+        background-color:pink;
+    }
+    body{
+        background-color:pink;
+    }
+}
